@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **soumikk01/soumikk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
@@ -23,7 +21,7 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 
 ---
 
-## 🚀 About Me
+  ## 🚀 About Me
 - 🔧 Skilled in **Java**, **Node.js**, and **SQL**
 - 🛠️ Passionate about backend development, REST APIs, and database design  
 - 📚 Currently learning and improving my skills in **Spring Boot**, **Microservices**, and **System Design**
@@ -31,7 +29,7 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 
 ---
 
-## 🖥️ Tech Stack
+  ## 🖥️ Tech Stack
 
 ### **Languages**
 - Java  
@@ -49,27 +47,9 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 
 ### **Tools & Platforms**
 - Git & GitHub  
-- Postman  
+- Postman (learning)
 - Docker (beginner)  
 
----
-
-## 📂 Projects
-Here are some of my key projects:
-
-### 🔐 **Intelligent Credit Card Transaction Fraud Detection**
-- Machine learning + backend integration  
-- Real-time fraud prediction system  
-- Secure and optimized architecture  
-
-*(Add more of your projects here)*
-
----
-
-## 📫 Contact Me
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: *your link here*  
-- 🐙 GitHub: *your GitHub profile link*
 
 ---
 
