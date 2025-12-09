@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Soumik
 
-####################### Backend Developer | Java | Node.js | SQL 
+#### Backend Developer | Java | Node.js | SQL 
 
 I'm a backend-focused developer who loves building scalable, secure, and efficient server-side systems.  
 I enjoy working with APIs, databases, and backend architectures that solve real-world problems.
