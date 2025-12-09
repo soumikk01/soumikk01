@@ -29,28 +29,6 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 
 ---
 
-  ## 🖥️ Tech Stack
-
-### **Languages**
-- Java  
-- JavaScript (Node.js)  
-- SQL  
-
-### **Backend Frameworks**
-- Spring Boot  
-- Express.js  
-
-### **Databases**
-- PostgreSQL  
-- MySQL  
-- MongoDB (learning)
-
-### **Tools & Platforms**
-- Git & GitHub  
-- Postman (learning)
-- Docker (beginner)  
-
-
 ---
 
 ⭐ *If you like my work, consider giving my repositories a star!*
