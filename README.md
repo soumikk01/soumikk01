@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 # 👋 Hi, I'm Soumik
 ---
 ### Backend Developer | Java | Node.js | SQL
@@ -26,7 +25,6 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 - 🔧 Skilled in **Java**, **Node.js**, and **SQL**
 - 🛠️ Passionate about backend development, REST APIs, and database design  
 - 📚 Currently learning and improving my skills in **Spring Boot**, **Microservices**, and **System Design**
-- 🧪 Interested in building secure & intelligent systems (like fraud detection)
 
 ---
 
