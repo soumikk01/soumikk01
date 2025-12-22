@@ -26,7 +26,7 @@ I enjoy working with APIs, databases, and backend architectures that solve real-
 
 ---
 
-⭐ *If you like my work, consider giving my repositories a star ...!*
+⭐ *If you like my work, consider giving my repositories a star ....!*
 
 ---
 
