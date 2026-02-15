@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
 </p>
 
 ---
