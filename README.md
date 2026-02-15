@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SOUMIK" alt="Name SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SOUMIK" alt="Name" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Node.js+Expert;Building+Scalable+Systems" alt="Role SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Node.js+Expert;Building+Scalable+Systems" alt="Role" />
 </p>
 
 ---
@@ -19,13 +19,9 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 
 ### 🛠️ Tech Stack (Moving Animation)
 <p align="center">
-  <a href="https://skillicons.dev">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
     <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&animation=true&speed=20&width=1000" alt="Tech Stack Moving Animation" />
+  </marquee>
 </p>
 
 ---
@@ -33,13 +29,13 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 ### 📊 GitHub Stats
 <p align="center">
 <a href="https://github.com/soumikk01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
