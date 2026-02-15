@@ -10,10 +10,12 @@
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=dark)](https://github.com/soumikk01)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=dark)](https://github.com/soumikk01)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=github_dark)](https://github.com/soumikk01)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)](https://github.com/soumikk01)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=github_dark)](https://github.com/soumikk01)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
+
 ---
 
 ### 🛠️ Tech Stack
