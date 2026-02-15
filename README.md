@@ -16,7 +16,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
+
+---
+
 ### 🐍 Contribution Activity
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumikk01/soumikk01/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
