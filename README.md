@@ -28,12 +28,11 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 
 ### 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/soumikk01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=tokyonight" />
-</a>
+  <a href="https://github.com/soumikk01">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" />
+  </a>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=tokyonight" alt="GitHub Streak" />
 </p>
