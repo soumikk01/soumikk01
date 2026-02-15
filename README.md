@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=SOUMIK&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20|%20Node.js&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=SOUMIK!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Java%20|%20Node.js&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
