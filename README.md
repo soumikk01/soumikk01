@@ -19,11 +19,28 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
-  </marquee>
-</p>
+
+<div align="center">
+  <style>
+    @keyframes scroll {
+      0% { transform: translateX(100%); }
+      100% { transform: translateX(-100%); }
+    }
+    
+    .tech-scroll {
+      display: inline-flex;
+      animation: scroll 20s linear infinite;
+      padding: 10px;
+    }
+  </style>
+  
+  <div style="overflow: hidden; width: 100%; background: rgba(0,0,0,0.1); border-radius: 10px; padding: 10px 0;">
+    <div class="tech-scroll">
+      <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
+    </div>
+  </div>
+</div>
 
 ---
 
