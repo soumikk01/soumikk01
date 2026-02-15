@@ -17,11 +17,7 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&perline=12" />
-</p>
-
+### 🛠️ Tech Stack (Moving Animation)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
@@ -29,7 +25,7 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 </p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&animation=true&speed=20" alt="Tech Stack Animation" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&animation=true&speed=20&width=1000" alt="Tech Stack Moving Animation" />
 </p>
 
 ---
@@ -37,8 +33,8 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 ### 📊 GitHub Stats
 <p align="center">
 <a href="https://github.com/soumikk01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
 </a>
 </p>
 
