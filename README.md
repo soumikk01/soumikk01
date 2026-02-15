@@ -10,18 +10,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  Java • Node.js • JavaScript • Spring • Express • MySQL • PostgreSQL • MongoDB • Docker • Git • GitHub • Postman
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" width="100%" />
-</p>
----
-
-### 🛠️ Tech Stack
-
-<marquee behavior="scroll" direction="left" scrollamount="2">
+<marquee behavior="scroll" direction="center" scrollamount="2">
   <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
 </marquee>
 
