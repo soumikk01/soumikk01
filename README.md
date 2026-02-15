@@ -8,14 +8,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=github_dark)](https://github.com/soumikk01)
+<p align="center">
+  Java • Node.js • JavaScript • Spring • Express • MySQL • PostgreSQL • MongoDB • Docker • Git • GitHub • Postman
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=github_dark)](https://github.com/soumikk01)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" width="100%" />
+</p>
 ---
 
 ### 🛠️ Tech Stack
