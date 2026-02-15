@@ -20,20 +20,9 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="2">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
+</marquee>
 
 ---
 
