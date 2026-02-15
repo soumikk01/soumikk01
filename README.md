@@ -20,27 +20,20 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <style>
-    @keyframes scroll {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
-    }
-    
-    .tech-scroll {
-      display: inline-flex;
-      animation: scroll 20s linear infinite;
-      padding: 10px;
-    }
-  </style>
-  
-  <div style="overflow: hidden; width: 100%; background: rgba(0,0,0,0.1); border-radius: 10px; padding: 10px 0;">
-    <div class="tech-scroll">
-      <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
-      <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
-    </div>
-  </div>
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=postman" alt="Postman"/></a>
+</p>
 
 ---
 
