@@ -17,7 +17,7 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 
 ---
 
-### 🛠️ Tech Stack (Moving Animation)
+### 🛠️ Tech Stack
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10">
     <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
