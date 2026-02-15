@@ -18,8 +18,18 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&perline=12" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman&animation=true&speed=20" alt="Tech Stack Animation" />
 </p>
 
 ---
