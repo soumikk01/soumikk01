@@ -48,11 +48,11 @@ I'm a backend-focused developer who loves building scalable, secure, and efficie
 ---
 
 ### 📫 Connect with Me
-<p align="left">
-<a href="mailto:your-email@gmail.com" target="_blank">
+<p align="center">
+<a href="mailto:soumikb009@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/your-profile" target="_blank">
+<a href="www.linkedin.com/in/soumik-biswas-414a71325" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
