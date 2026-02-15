@@ -8,13 +8,12 @@
 
 ---
 
-### 🚀 About Me
-I'm a backend-focused developer who loves building scalable, secure, and efficient server-side systems.
+### 📊 GitHub Stats
 
-- 🔭 **Working on:** Improving server-side performance and API security.
-- 📚 **Learning:** Spring Boot, Microservices, and System Design.
-- 💬 **Ask me about:** Java, Node.js, and SQL.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=dark)](https://github.com/soumikk01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=dark)](https://github.com/soumikk01)
 
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)](https://github.com/soumikk01)
 ---
 
 ### 🛠️ Tech Stack
