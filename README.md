@@ -11,9 +11,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<marquee behavior="scroll" direction="center" scrollamount="2">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,js,spring,express,mysql,postgres,mongodb,docker,git,github,postman" alt="Tech Stack" />
-</marquee>
+  <img src="./tech-stack.svg" alt="Tech Stack Animation" />
 </p>
 
 ---
@@ -21,7 +19,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumikk01&theme=dark)
+  
 </p>
 
 ---
