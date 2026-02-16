@@ -1,0 +1,19 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slide {
+        0% { transform: translateX(-600px); }
+        100% { transform: translateX(600px); }
+      }
+      .scroll-text {
+        animation: slide 10s linear infinite;
+        font-size: 20px;
+        font-weight: bold;
+      }
+    </style>
+  </defs>
+  
+  <text x="0" y="50" class="scroll-text" fill="#00ff00">
+    ☕ Java → 🟢 Node.js → 💛 JavaScript → 🍃 Spring → 🚀 Express → 🐬 MySQL
+  </text>
+</svg>
