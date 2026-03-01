@@ -1,0 +1,32 @@
+<svg width="150" height="50" viewBox="0 0 150 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .btn {
+        animation: float 2.8s ease-in-out infinite;
+        transform-origin: center;
+      }
+      .bg {
+        fill: #000000;
+        rx: 8;
+        ry: 8;
+      }
+      .text {
+        font-family: 'Segoe UI', 'Helvetica Neue', 'Arial', sans-serif;
+        font-size: 15px;
+        fill: white;
+        font-weight: bold;
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+    </style>
+  </defs>
+  <g class="btn">
+    <rect class="bg" width="140" height="40" x="5" y="5" />
+    <svg x="15" y="15" width="20" height="20" viewBox="0 0 24 24" fill="white">
+      <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>
+    </svg>
+    <text class="text" x="45" y="30" dominant-baseline="middle">Twitter (X)</text>
+  </g>
+</svg>

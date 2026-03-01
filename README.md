@@ -35,11 +35,15 @@
 ---
 
 ### 📫 Connect with Me
+
 <p align="center">
 <a href="mailto:soumikb009@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="./gmail-animated.svg" alt="Gmail" />
 </a>
-<a href="www.linkedin.com/in/soumik-biswas-414a71325" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/soumik-biswas-414a71325" target="_blank">
+<img src="./linkedin-animated.svg" alt="LinkedIn" />
+</a>
+<a href="https://x.com/soumikbiswas196" target="_blank">
+<img src="./x-animated.svg" alt="X (Twitter)" />
 </a>
 </p>
