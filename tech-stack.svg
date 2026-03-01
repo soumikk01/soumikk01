@@ -1,12 +1,12 @@
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       @keyframes slide {
-        0% { transform: translateX(-600px); }
-        100% { transform: translateX(600px); }
+        0% { transform: translateX(-900px); }
+        100% { transform: translateX(900px); }
       }
       .scroll-text {
-        animation: slide 10s linear infinite;
+        animation: slide 15s linear infinite;
         font-size: 20px;
         font-weight: bold;
       }
