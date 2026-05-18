@@ -1,41 +1,50 @@
 <div align="center">
 
-<!-- Capsule Render Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=SOUMIK&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=36BCF7&desc=Backend%20Developer%20%7C%20Java%20%26%20Node.js&descAlign=50&descAlignY=62&descSize=18&descColor=a0a0c8&animation=fadeIn" />
+<!-- FIXED: Capsule render - removed special chars from desc, simplified params -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=SOUMIK&fontSize=75&fontAlign=50&fontAlignY=45&fontColor=36BCF7&animation=fadeIn" />
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=soumikk01&label=Profile+Views&color=36BCF7&style=for-the-badge" />
+<!-- FIXED: Komarev badge standalone, no broken SVG next to it -->
+<img src="https://komarev.com/ghpvc/?username=soumikk01&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" />
 
-<!-- Typing Animation -->
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+Scalable+Systems+%F0%9F%9A%80;Java+%26+Node.js+Expert+%E2%9A%A1;API+Architect+%7C+Backend+Engineer;Clean+Code+%7C+Distributed+Systems" alt="Typing SVG" />
+<!-- FIXED: Width increased to 750, shorter lines to avoid truncation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&height=50&lines=Backend+Developer+%7C+Java+%26+Node.js;Building+Scalable+Systems+%F0%9F%9A%80;API+Architect+%7C+Distributed+Systems;Clean+Code+%7C+Cloud+%26+DevOps" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 🧠 About Me
 
-```yaml
-name: Soumik Biswas
-role: Backend Developer
-focus: Scalable System Design
-languages:
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<pre>
+name   : Soumik Biswas
+role   : Full Stack Developer
+focus  : Scalable System Design
+langs  :
   - Java
   - Node.js
   - JavaScript
   - SQL
-interests:
+likes  :
   - REST & GraphQL APIs
   - Microservices Architecture
   - Database Optimization
   - DevOps & CI/CD
-currently_learning: System Design & Cloud Architecture
-open_to: Exciting backend opportunities
-```
+learning : System Design & Cloud
+open_to  : Exciting opportunities
+</pre>
+
+</td>
+<td width="45%" align="center" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -47,9 +56,13 @@ open_to: Exciting backend opportunities
 
 <img src="https://skillicons.dev/icons?i=java,nodejs,js,ts&theme=dark&perline=6" />
 
+<br/>
+
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=spring,express,mysql,mongodb,postgres,redis&theme=dark&perline=6" />
+
+<br/>
 
 **Tools & DevOps**
 
@@ -63,8 +76,9 @@ open_to: Exciting backend opportunities
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0a0c8" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a0a0c8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=soumikk01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0a0c8" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikk01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=a0a0c8" />
 
 <br/>
 
@@ -74,7 +88,7 @@ open_to: Exciting backend opportunities
 
 ---
 
-### 🐍 Contribution Activity
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -98,17 +112,7 @@ open_to: Exciting backend opportunities
 
 <div align="center">
 
-[![Soumik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumikk01&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 💬 Dev Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=soumikk01&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -119,23 +123,20 @@ open_to: Exciting backend opportunities
 <div align="center">
 
 <a href="mailto:soumikb009@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-soumikb009%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/soumik-biswas-414a71325" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Soumik%20Biswas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://x.com/soumikbiswas196" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-soumikbiswas196-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
+<!-- FIXED: Capsule render footer - simple, no text params -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-</div>
