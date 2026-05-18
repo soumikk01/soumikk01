@@ -15,36 +15,30 @@
 
 ---
 
+
 ### 🧠 About Me
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <pre>
-name   : Soumik Biswas
-role   : Full Stack Developer
-focus  : Scalable System Design
-langs  :
+name     : Soumik Biswas
+role     : Full Stack Developer
+focus    : Scalable System Design
+langs    :
   - Java
   - Node.js
   - JavaScript
   - SQL
-likes  :
-  - REST & GraphQL APIs
+likes    :
+  - REST and GraphQL APIs
   - Microservices Architecture
   - Database Optimization
-  - DevOps & CI/CD
-learning : System Design & Cloud
+  - DevOps and CI/CD
+learning : System Design and Cloud Architecture
 open_to  : Exciting opportunities
 </pre>
 
-</td>
-<td width="45%" align="center" valign="top">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
